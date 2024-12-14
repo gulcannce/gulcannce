@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gulcan
-- 👀 I’m interested in --> Lest write development
+- 👀 I’m interested in --> Software testing
 - 🌱 I’m currently learning --> AI
 - 💞️ I’m looking to collaborate on --> AI
 - 📫 How to reach me -->gulcanncee@gmail.com
