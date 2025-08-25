@@ -2,20 +2,20 @@
 
 ## 🌟 About Me  
 
-👀 Passionate about **Software Testing & QA** (breaking things is my superpower 🦸‍♀️🐞)  
+👀 I’m passionate about **Software Testing and Quality Assurance** — breaking things is actually my favorite superpower 🦸‍♀️🐞  
 
-🌱 Currently diving into the world of **Artificial Intelligence (AI)** 🤖✨  
+🌱 Currently diving into the world of **Artificial Intelligence (AI)** with great excitement 🤖✨  
 
-💞️ Love to collaborate on **AI & Testing projects** — because mixing creativity + logic = 💡🚀  
+💞️ **Creativity + Logic = 💡🚀**  
+That’s why I love collaborating on **AI & Testing projects**.  
 
-📜 Certified **ISTQB Tester** 🏅  
-![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified-blue?style=for-the-badge&logo=checkmarx&logoColor=white)  
+📜 **ISTQB Certified Test Specialist** 🏅  
+(Quality for me is not just a goal, but a standard ✔️)  
 
-📫 You can find me at: **[gulcanncee@gmail.com](mailto:gulcanncee@gmail.com)** 📩  
+📫 Feel free to reach out: **gulcanncee@gmail.com** 📩  
 
-😄 Pronouns: **She/Her** 🌸  
-
-⚡ Fun fact: I enjoy turning coffee ☕ into test cases ✅ and bugs 🐛 into opportunities 🎯  
+⚡ Fun fact: Coffee ☕ + Code 💻 + Test 🧪 = Happy Me 🎉  
+😄 Pronouns: **She/Her** 🌸 (but actually a proud “Bug Hunter” 🐞🔫)  
 
 ---
 
