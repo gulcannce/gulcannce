@@ -1,12 +1,21 @@
 # 👋 Hi, I’m Gulcan  
 
-## 👩‍💻 About Me  
-- 👀 Interested in **Software Testing & Quality Assurance (QA)**  
-- 🌱 Currently learning **Artificial Intelligence (AI)**  
-- 💞️ Open to collaborate on **AI & Software Testing projects**  
-- 📫 Reach me at: **[gulcanncee@gmail.com](mailto:gulcanncee@gmail.com)**  
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: I love combining creativity with technology to build useful projects 🚀  
+## 🌟 About Me  
+
+👀 Passionate about **Software Testing & QA** (breaking things is my superpower 🦸‍♀️🐞)  
+
+🌱 Currently diving into the world of **Artificial Intelligence (AI)** 🤖✨  
+
+💞️ Love to collaborate on **AI & Testing projects** — because mixing creativity + logic = 💡🚀  
+
+📜 Certified **ISTQB Tester** 🏅  
+![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified-blue?style=for-the-badge&logo=checkmarx&logoColor=white)  
+
+📫 You can find me at: **[gulcanncee@gmail.com](mailto:gulcanncee@gmail.com)** 📩  
+
+😄 Pronouns: **She/Her** 🌸  
+
+⚡ Fun fact: I enjoy turning coffee ☕ into test cases ✅ and bugs 🐛 into opportunities 🎯  
 
 ---
 
