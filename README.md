@@ -1,21 +1,15 @@
 # 👋 Hi, I’m Gulcan  
 
 ## 🌟 About Me  
-
 👀 I’m passionate about **Software Testing and Quality Assurance** — breaking things is actually my favorite superpower 🦸‍♀️🐞  
-
 🌱 Currently diving into the world of **Artificial Intelligence (AI)** with great excitement 🤖✨  
-
 💞️ **Creativity + Logic = 💡🚀**  
 That’s why I love collaborating on **AI & Testing projects**.  
-
 📜 **ISTQB Certified Test Specialist** 🏅  
 (Quality for me is not just a goal, but a standard ✔️)  
-
-📫 Feel free to reach out: **gulcanncee@gmail.com** 📩  
-
 ⚡ Fun fact: Coffee ☕ + Code 💻 + Test 🧪 = Happy Me 🎉  
 😄 Pronouns: **She/Her** 🌸 (but actually a proud “Bug Hunter” 🐞🔫)  
+📫 Feel free to reach out: **gulcanncee@gmail.com** 📩  
 
 ---
 
