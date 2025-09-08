@@ -7,9 +7,9 @@
 That’s why I love collaborating on **AI & Testing projects**.  
 📜 **ISTQB Certified Test Specialist**  
 (Quality for me is not just a goal, but a standard ✔️)  
-⚡ Fun fact: Coffee ☕ + Code + Test  = Happy Me 🎉  
-😄 Pronouns: **She/Her**  (but actually a proud “Bug Hunter” )  
-📫 Feel free to reach out: **gulcanncee@gmail.com** 📩  
+⚡ Fun fact: Coffee ☕ + Code + Test  = Happy Me   
+Pronouns: **She/Her**  (but actually a proud “Bug Hunter” )  
+Feel free to reach out: **gulcanncee@gmail.com** 📩  
 
 ---
 
